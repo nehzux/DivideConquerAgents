@@ -1,0 +1,11 @@
+src/__pycache__/
+outputs/
+src/config.json
+*.pyc
+.env
+.vscode/
+.idea/
+__pycache__/
+*.egg-info/
+dist/
+build/

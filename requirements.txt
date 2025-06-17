@@ -1,0 +1,8 @@
+openai>=1.0.0
+tiktoken
+jsonlines
+numpy
+rouge-score
+evaluate
+tqdm 
+torch>=1.12.0
