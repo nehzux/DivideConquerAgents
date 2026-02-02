@@ -211,9 +211,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @article{divideconqueragents,
     title={When Does Divide and Conquer Work for Long Context LLM? A Noise Decomposition Framework},
-    author={Zhen (Zach) Xu, Shang Zhu, Jue Wang, Junlin Wang, Ben Athiwaratkun, Chi Wang, James Zou, Ce Zhang},
-    journal={arxiv},
-    year={2025}
+    author={Zhen Xu, Shang Zhu, Jue Wang, Junlin Wang, Ben Athiwaratkun, Chi Wang, James Zou, Ce Zhang},
+    journal={ICLR},
+    year={2026}
 }
 ```
 
